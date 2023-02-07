@@ -1,4 +1,2 @@
-kattis/*.o
-kattis/*.exe
-Codeforces/*.o
-Codeforces/*.exe
+*.o
+*.exe
