@@ -17,8 +17,8 @@ int main()
         ans = ((((r-c)*(r-c))/(r*r))*100);
     }
 
-    std::cout << std::fixed;
-    std::cout << std::setprecision(6);
+    cout << std::fixed;
+    cout << std::setprecision(6);
 
     cout<<ans;
 

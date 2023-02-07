@@ -7,8 +7,8 @@ int main()
 
     cin>>n;
 
-    d=0;
-    p=1;
+    d = 0;
+    p = 1;
 
     while((p*2)<n)
     {

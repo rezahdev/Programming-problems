@@ -23,10 +23,7 @@ int main()
             sum += g[i];
         }
 
-
         avg = ((double)(sum)) / ((double)(n));
-
-
 
         for(int i=0; i<n; ++i)
         {
